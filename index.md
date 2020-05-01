@@ -40,7 +40,7 @@ Link to privacy policy of third party service providers used by the app
 
 **Children’s Privacy**
 
-* No need signup or signin.
+No need signup or signin.
 
 I will serve child friendly ads through third party advertisement platform.
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
