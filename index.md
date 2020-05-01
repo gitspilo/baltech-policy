@@ -9,17 +9,22 @@ If you choose to use my Service, then you agree to the collection and use of inf
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at BalTech unless otherwise defined in this Privacy Policy.
 
 **Permissions**
+
 All functionality is available without special access
+
 My app not needed any extra permission (like contacts, message, notification, images, location, etc...)
 
 **User Data**
 
 My app will not collect any non-personal data. I use technologies like cookies for my apps (small storage file in your device) for delivering a better experience.
+
 My app will not logs any of your personal data (like, device ID, location, analytics etc...)
 
 **Security**
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it.
+
+But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
 **Links to Other Sites**
 
