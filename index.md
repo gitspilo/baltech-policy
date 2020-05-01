@@ -9,7 +9,7 @@ If you choose to use my Service, then you agree to the collection and use of inf
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at BalTech unless otherwise defined in this Privacy Policy.
 
 **Permissions**
-
+All functionality is available without special access
 My app not needed any extra permission (like contacts, message, notification, images, location, etc...)
 
 **User Data**
