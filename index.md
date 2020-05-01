@@ -16,6 +16,10 @@ My app not needed any extra permission (like contacts, message, notification, im
 
 **User Data**
 
+My app access without signup or signin.
+
+My app does not store any type of data.
+
 My app will not collect any non-personal data. I use technologies like cookies for my apps (small storage file in your device) for delivering a better experience.
 
 My app will not logs any of your personal data (like, device ID, location, analytics etc...)
@@ -35,6 +39,8 @@ Link to privacy policy of third party service providers used by the app
 * [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
 **Children’s Privacy**
+
+* No need signup or signin.
 
 I will serve child friendly ads through third party advertisement platform.
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
