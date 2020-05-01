@@ -45,7 +45,7 @@ No need signup or signin.
 I will serve child friendly ads through third party advertisement platform.
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
-My app does not in-app purchase
+My app do not have any type of in-app purchases
 
 If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
 
